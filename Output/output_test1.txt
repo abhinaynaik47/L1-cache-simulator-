@@ -1,0 +1,76 @@
+Simulation Parameters: 
+Set Index Bits: 2
+Associativity: 2
+Block Bits: 2
+Block Size (Bytes): 4
+Number of Sets: 4
+Cache Size (KB per core): 0.03125
+MESI PROTOCOL: Enabled
+Write Policy: Write back, Write allocate
+Replacement Policy: LRU
+Bus: Cenetral Snooping Bus
+
+Core 0 Statistics:
+Total Instructions: 1
+Total Reads: 1
+Total Writes: 0
+Total Execution Cycles: 101
+Instruction Execution Cycles: 101
+Total Idle Cycles: 0
+Cache Misses: 1
+Cache Hits: 0
+Cache miss rate: 100
+Cache Evictions: 0
+Writebacks: 0
+Bus Invalidations: 0
+Data Traffic: 16
+
+Core 1 Statistics:
+Total Instructions: 1
+Total Reads: 1
+Total Writes: 0
+Total Execution Cycles: 103
+Instruction Execution Cycles: 3
+Total Idle Cycles: 100
+Cache Misses: 1
+Cache Hits: 0
+Cache miss rate: 100
+Cache Evictions: 0
+Writebacks: 0
+Bus Invalidations: 0
+Data Traffic: 4
+
+Core 2 Statistics:
+Total Instructions: 1
+Total Reads: 1
+Total Writes: 0
+Total Execution Cycles: 105
+Instruction Execution Cycles: 3
+Total Idle Cycles: 102
+Cache Misses: 1
+Cache Hits: 0
+Cache miss rate: 100
+Cache Evictions: 0
+Writebacks: 0
+Bus Invalidations: 0
+Data Traffic: 4
+
+Core 3 Statistics:
+Total Instructions: 1
+Total Reads: 1
+Total Writes: 0
+Total Execution Cycles: 107
+Instruction Execution Cycles: 3
+Total Idle Cycles: 104
+Cache Misses: 1
+Cache Hits: 0
+Cache miss rate: 100
+Cache Evictions: 0
+Writebacks: 0
+Bus Invalidations: 0
+Data Traffic: 4
+
+Overall Bus Summary: 
+Last Cycle: 107
+Total Bus Transactions: 4
+Total Bus Traffic(in Bytes): 28
